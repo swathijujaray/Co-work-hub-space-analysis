@@ -1,0 +1,7 @@
+"room_id","room_name","room_type","capacity","hourly_rate"
+101,"The Loft","desk",10,"15.00"
+102,"Focus Pod A","office",2,"25.00"
+103,"Focus Pod B","office",2,"25.00"
+104,"Summit Room","conference",12,"60.00"
+105,"Horizon Hall","conference",20,"90.00"
+106,"Hot Desk Row","desk",15,"10.00"
