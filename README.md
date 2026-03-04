@@ -15,14 +15,14 @@ WorkHub is an interactive Power BI dashboard designed to analyze and visualize k
 * Design an interactive and user-friendly dashboard
 * Deliver business insights through visual analytics
 
-** Tools & Technologies**
+**Tools & Technologies**
 * Power BI Desktop (.pbix)
 * Power Query (Data Transformation)
 * DAX (Data Analysis Expressions)
 * Data Modeling
 * Excel / CSV (Data Source – claude.ai)
 
-** Key Features**
+**Key Features**
 * KPI Cards (Total Revenue / Total Employees / Performance Score etc.)
 * Interactive Filters & Slicers
 * Trend Analysis (Monthly / Quarterly insights)
@@ -30,7 +30,7 @@ WorkHub is an interactive Power BI dashboard designed to analyze and visualize k
 * Dynamic measures using DAX
 * Clean and professional dashboard layout
 
-**Business Insights **
+**Business Insights**
 * Identified highly-used amenities
 * Detected monthly trends in performance
 * Analyzed workforce distribution by region
